@@ -1,0 +1,2 @@
+# Settings file that contains the api token
+api_token = '#####SECRET######'
